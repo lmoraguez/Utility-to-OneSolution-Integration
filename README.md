@@ -28,3 +28,6 @@ If you prefer the DIY route, below is the general outline of how to do so.
 2. The stored procedures and table installation scripts (provided by Utility) should be customized to match your environment and references to the views installed step 1.
 3. Create a user in SQL that only has access to the views, stored procedures, and tables created.
 4. Utility CAD Integration Service needs to be configured and installed on a server that will allow it to connect to the Stored Procedures installed in step 2. This service will transfer data to AVaiL over a secure connection.
+
+
+-- Written By: Luis Moraguez <luis@moraguez.com> <407-433-8161>

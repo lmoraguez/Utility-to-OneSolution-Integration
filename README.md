@@ -4,13 +4,13 @@ A set of views that seamlessly integrate the OneSolution CAD database with Utili
 Code is Open Sourced under the GNU Lesser Public License v3.0.  Contributors are welcome, but please link to this main branch and include credit to the original source of your contribution.
 
 # Current Features allow Utility to:
-- Auto-associate CAD event number and Case number to officer video
-- Auto-relate video recordings of various officers based on the event numbers associated
-- Auto-classify videos based on a CAD nature code to video classification mapping. (Maintained through CAD GUI & SQL)
+- Auto-Associate CAD event number and Case number to officer video
+- Auto-Relate video recordings of various officers based on the event numbers associated
+- Auto-Classify videos based on a CAD nature code to video classification mapping. (Maintained through CAD GUI & SQL)
 
 # Future Features in the works:
-- Auto-recording based on CAD defined Action Zones (Action Zones are an option that can be set up with Utility Inc, and this integration aims to allow for those action zones to be defined and maintained through the CAD GUI).
-- Auto-usermaintenance view, so that when an officer is hired, promoted, or seperated from the agency, they will be automatically added/maintained in AVaiL, and disabled if that officer were to seperate from the agency.
+- Auto-Recording based on CAD defined Action Zones (Action Zones are an option that can be set up with Utility Inc, and this integration aims to allow for those action zones to be defined and maintained through the CAD GUI).
+- Auto-UserMaintenance, so that when an officer is hired, promoted, or seperated from the agency, they will be automatically added/maintained in AVaiL, and disabled if that officer were to seperate from the agency.
 
 # Installation Notes:
  Installation services available if needed. Basic service includes:

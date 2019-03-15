@@ -7,7 +7,7 @@
 -- # Licensed under the GNU LESSER GENERAL PUBLIC LICENSE <https://www.gnu.org/licenses/lgpl-3.0.en.html>
 
 -- ### Installation services available if needed. Basic service includes:
----- # Tayloring the views to your environment, locality (state plane formulas), & features needed
+---- # Tailoring the views to your environment, locality (state plane formulas), & features needed
 ---- # Training on the features available
 
 -- ### Additional/Optional services

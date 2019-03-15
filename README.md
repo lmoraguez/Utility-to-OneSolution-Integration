@@ -14,7 +14,7 @@ Code is Open Sourced under the GNU Lesser Public License v3.0.  Contributors are
 
 # Installation Notes:
  Installation services available if needed. Basic service includes:
-- Tayloring the views to your environment, locality (state plane formulas), & features needed
+- Tailoring the views to your environment, locality (state plane formulas), & features needed
 - Training on the features available and tweaks that can be made
 
 Additional/Optional services

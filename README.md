@@ -30,4 +30,4 @@ If you prefer the DIY route, below is the general outline of how to do so.
 4. Utility CAD Integration Service needs to be configured and installed on a server that will allow it to connect to the Stored Procedures installed in step 2. This service will transfer data to AVaiL over a secure connection.
 
 
--- Written By: Luis Moraguez
+-- Written By: Luis Moraguez <luis@moraguez.com> <407-433-8161>

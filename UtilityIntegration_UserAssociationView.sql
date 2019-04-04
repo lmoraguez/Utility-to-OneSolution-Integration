@@ -1,7 +1,7 @@
 -- CREATE VIEW utility_user_assoc_view AS
 
 -- Utility Integration View - User Associations
--- Written By: Luis Moraguez
+-- Written By: Luis Moraguez <luis@moraguez.com> <407-433-8161>
 -- Date: 8/21/2018
 
 -- # Licensed under the GNU LESSER GENERAL PUBLIC LICENSE <https://www.gnu.org/licenses/lgpl-3.0.en.html>
